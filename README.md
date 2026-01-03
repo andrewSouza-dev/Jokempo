@@ -30,6 +30,8 @@ Empate
 
 ## 🖼️ Interface
 
+![Interface do Jokempô](assets/Projeto.png)
+
 O aplicativo possui:
 
 Área para escolha do jogador
