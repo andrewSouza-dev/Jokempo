@@ -54,21 +54,6 @@ Visual Studio
 
 --
 
-## 📁 Estrutura do Projeto
-Jokempo/
-│
-├── Jokempo/
-│   ├── Form1.cs
-│   ├── Form1.Designer.cs
-│   ├── Game.cs
-│   ├── Program.cs
-│   └── App.config
-│
-├── Jokempo.sln
-└── README.md
-
--- 
-
 ## ▶️ Como Executar o Projeto
 
 Clone o repositório:
