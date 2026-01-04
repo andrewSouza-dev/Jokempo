@@ -1,6 +1,6 @@
 # 🪨📄✂️ Jokempô – Pedra, Papel e Tesoura (C# WinForms)
 
-##Aplicativo Jokempô (Pedra, Papel e Tesoura) desenvolvido em C# com Windows Forms, onde o jogador compete contra o computador em uma interface gráfica simples e intuitiva.
+## Aplicativo Jokempô (Pedra, Papel e Tesoura) desenvolvido em C# com Windows Forms, onde o jogador compete contra o computador em uma interface gráfica simples e intuitiva.
 
 ## 🎮 Funcionalidades
 
